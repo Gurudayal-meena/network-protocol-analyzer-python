@@ -4,7 +4,6 @@
 This project is a Python-based **Network Protocol Analyzer** that captures and analyzes live network traffic.  
 It identifies common network protocols, measures throughput, calculates DNS and HTTP latency, and visualizes protocol distribution.
 
-The tool is designed for **network performance monitoring** and **telecom diagnostics**, inspired by real-world requirements in organizations like C-DOT.
 
 ---
 
